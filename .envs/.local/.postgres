@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=tectalks
+POSTGRES_USER=hZTymIcgYvPEIFuskSYexMQLjtlBfSXO
+POSTGRES_PASSWORD=JlVYkbe6pqmLGpT2J1xqrJEcFn5ZMEsAw0ozp4Qx6TK9AEzQf3MVokbePZc0SnuH
